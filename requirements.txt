@@ -1,0 +1,3 @@
+mxnet-cu90==1.3.0.post0
+spacy==2.0.12  #python3 -m spacy download en
+gluonnlp==0.4.0
